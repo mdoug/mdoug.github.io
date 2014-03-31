@@ -20,5 +20,11 @@ print_hi('Tom')
 
 Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll's GitHub repo][jekyll-gh].
 
+---
+
+Ok, it's  Malcolm, I guess I should delete this page, but I'm going to leave it till I know what I'm doing....
+
+
+
 [jekyll-gh]: https://github.com/mojombo/jekyll
 [jekyll]:    http://jekyllrb.com
