@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "First Real Post"
+date:   2014-04-01 14:56:21
+categories: jeykyll update
+---
+
 # Ok, First Real Post
 
 This is the first real post of this here blog thing.  I was sick for a
