@@ -2,7 +2,7 @@
 layout: post
 title:  "First Real Post"
 date:   2014-04-01 14:56:21
-categories: jeykyll update
+categories: blog
 ---
 
 # Ok, First Real Post
