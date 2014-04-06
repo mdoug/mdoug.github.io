@@ -70,7 +70,7 @@ A programmer talking about text editors.  Thrilling.  But, I think the
 point here is that I will write my own text editor!  So there!  That's
 exciting, amirite?
 
-## Ubhappy with Emacs
+## Unhappy with Emacs
 
 I am not happy with Emacs.  Not really sure how else to put it, but my
 relationship with emacs has always been one of "I think is slightly
@@ -92,7 +92,7 @@ a basic syntax highlighter, but I will probably need something that
 can work as a debugger, connecting into an app through a socket.
 
 Now, I can't find the motivation to write this stuff in elisp -- a
-truly loathesome language -- when I am trying to get away from Emacs.
+truly loathsome language -- when I am trying to get away from Emacs.
 It just does not make sense.  But, at the same time, I don't like vim,
 and I'm not sure it has the functionality I need anyway to deal with
 the debugger aspects, so I think a stand alone editor might be just
