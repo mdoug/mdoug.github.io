@@ -99,6 +99,24 @@ the debugger aspects, so I think a stand alone editor might be just
 what the doctor ordered.
 
 
+## Edit: Vim?
 
+Of course, there is no reason not to give vim a whirl.  I am, in fact, using it
+write now (I mean, to right now!) Of course, it has a learning curve, but so
+did Emacs.  The difference is that I already know Emacs.  But, truth be told, I
+don't really use emacs for anything that another editor would not be just as
+good at -- not even sure I really need vim, it is just the logical choice,
+because vi is so useful from the command line. 
+
+That being said, I think it is probably preferable to do what I was going to do
+before, the text editor doesn't have to be good, it just has to be good enough
+to allow it to be used along with the debugger -- if it can't read the files,
+using it will be a chore, and if it is reading the files, it might as well
+allow some form of editing.  
+ 
+If I can just get vim to have some sort of highlighting for FIAL, I think I can
+give it a go.  I would try a newer text editor, but I should really pause to
+learn vi better now anyway, since if I like vim then I am home free.  I am
+willing to bet I have tried vim before, however.
 
 
