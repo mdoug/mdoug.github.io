@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Still Have Headache"
-categories: blog
+categories: another_category
 ----
 
 # needs a header somewhere?
