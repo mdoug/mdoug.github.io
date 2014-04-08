@@ -1,8 +1,10 @@
 ---
-layout: post
-title: "Still Have Headache"
+layout:     post
+title:      "Still Have Headache"
 categories: blog
 ----
+
+# needs a header somewhere?
 
 Man, I still have a nasty headache.  Maybe it's because I'm trying vim out now,
 and everything is a royal pain.  I really should just go back to Emacs, I don't
