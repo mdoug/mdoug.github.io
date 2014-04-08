@@ -1,3 +1,7 @@
 #emacs backups and working files
 \#*#
+
+#github builds the site, so I can just ignore it
+_site/*
+
 *~
