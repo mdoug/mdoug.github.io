@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Still Have Headache
-categories:blog
+title: "Still Have Headache"
+categories: blog
 ----
 
 Man, I still have a nasty headache.  Maybe it's because I'm trying vim out now,
