@@ -1,5 +1,5 @@
 ---
-layout: Post
+layout: post
 title: Still Have Headache
 categories:blog
 ----
