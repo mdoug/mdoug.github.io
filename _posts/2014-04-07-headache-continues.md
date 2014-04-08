@@ -1,13 +1,8 @@
 ---
 layout:     post
-
-title:      "Still Have Headache"
-
-categories: categories
-----
-
-# needs a header somewhere?
-
+title:      "Still Have a Headache"
+categories: blog
+---
 Man, I still have a nasty headache.  Maybe it's because I'm trying vim out now,
 and everything is a royal pain.  I really should just go back to Emacs, I don't
 even know how to word wrap this thing.  Ok, word wrapped.  
