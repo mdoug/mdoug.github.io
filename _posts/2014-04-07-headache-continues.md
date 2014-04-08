@@ -1,7 +1,9 @@
 ---
 layout:     post
+
 title:      "Still Have Headache"
-categories: another_category
+
+categories: categories
 ----
 
 # needs a header somewhere?
