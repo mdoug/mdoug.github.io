@@ -4,6 +4,8 @@ title:	    "FIAL Improvements, Alice Returns, Bought Secret World"
 categories: blog
 ---
 
+Why won't this post display?
+
 # FIAL Harder!
 
 I have done a ton of stuff with FIAL.  I added initializers for
