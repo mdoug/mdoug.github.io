@@ -4,7 +4,9 @@ title:	    "FIAL Improvements, Alice Returns, Bought Secret World"
 categories: blog
 ---
 
-Why won't this post display?
+Man, I had some trouble getting this to display, because a had a
+double curly brace, which I guess is a no no with jekyll.  But,
+anyhow, all better I hope.
 
 # FIAL Harder!
 
@@ -25,7 +27,7 @@ Some examples of new stuff:
     var v
     omni.move(v, :new_var.another_map.awesome) /* retrieve nested map */
 
-    some_proc({{$seq, $nested}, $in, $argument})
+    some_proc({ {$seq, $nested}, $in, $argument})
 
 Anyway, as can be seen, the language is just a lot less inconvenient,
 without losing its short, choppy, feel.  Still a couple of additions I
