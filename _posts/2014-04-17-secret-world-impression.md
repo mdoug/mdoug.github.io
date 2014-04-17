@@ -74,8 +74,8 @@ than you are tired of looking at the hoodie you threw on in character
 creation just because it looked ok and you wanted to get the game
 started.  But because of this, clothing is expensive in in-game
 currency, because they offer clothes through the real money shop,
-which people view as acceptable because they are paying for an in game
-advantage.
+which people view as acceptable because they aren't paying for an in game
+advantage, just customization.
 
 # Ok, Now What
 
